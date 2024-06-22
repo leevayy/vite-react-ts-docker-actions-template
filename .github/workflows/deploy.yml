@@ -2,7 +2,7 @@ name: GitHub Actions Deploy
 
 concurrency: production
 
-run-name: ${{ github.actor }} is testing out GitHub Actions 🚀
+run-name: Deploy 🚀
 on:
   workflow_dispatch:
 jobs:
